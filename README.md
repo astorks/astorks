@@ -1,5 +1,5 @@
 ### Social 😄
-[Discord: Ashton#0001](https://discord.com/channels/@me/71823103633657856)
+[Discord: ashton](https://discord.com/channels/@me/71823103633657856)
 
 ### Active Open Source Projects
 **[ScriptableMC-Engine](https://github.com/astorks/ScriptableMC-Engine)**<br/>
